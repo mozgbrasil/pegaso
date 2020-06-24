@@ -1,0 +1,1 @@
+(this["webpackJsonp@mozg/react-pegaso"]=this["webpackJsonp@mozg/react-pegaso"]||[]).push([[25],{227:function(e,s,t){e.exports=t.p+"static/media/license.fb993edd.txt"}}]);

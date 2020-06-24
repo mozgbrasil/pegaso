@@ -1,0 +1,1 @@
+(this["webpackJsonp@mozg/react-pegaso"]=this["webpackJsonp@mozg/react-pegaso"]||[]).push([[24],{226:function(a,e,o){a.exports=o.p+"static/media/README.5068e019.markdown"}}]);
